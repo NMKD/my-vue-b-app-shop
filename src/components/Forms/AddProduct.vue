@@ -12,8 +12,8 @@
             </div>
             <div class="mb-3 row">
                 <label for="description" class="form-label">Описание</label>
-                <input type="text" class="form-control" id="description" placeholder="Введите описание"
-                    name="description">
+                <textarea class="form-control" id="description" placeholder="Введите описание"
+                    name="description"></textarea>
             </div>
             <div class="mb-3 row">
                 <label for="price" class="form-label">Цена</label>
@@ -38,7 +38,7 @@
                     </div>
                 </div>
             </div>
-            <button type="submit" class="btn btn-primary">Добавить</button>
+            <button type="submit" class="btn btn-info">Добавить</button>
         </form>
     </div>
 
