@@ -1,17 +1,34 @@
+<!-- eslint-disable vue/no-multiple-template-root -->
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <NavbarPartials />
+    <div class="container">
+      <HomePageVue />
+      <CartShop />
+      <OrdersShop />
+      <FormForSellerAddProduct />
+      <FooterShop />
+    </div>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import HomePageVue from './components/Home.vue';
+import NavbarPartials from './components/partials/Navbar.vue';
+import FooterShop from './components/partials/Footer.vue';
+import CartShop from "./components/Cart/Cart.vue"
+import OrdersShop from "./components/Orders/Orders.vue"
+import FormForSellerAddProduct from "./components/Forms/AddProduct.vue"
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HomePageVue,
+    NavbarPartials,
+    FooterShop,
+    CartShop,
+    OrdersShop,
+    FormForSellerAddProduct
   }
 }
 </script>
@@ -23,6 +40,5 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
