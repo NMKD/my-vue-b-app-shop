@@ -1,0 +1,58 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Куртка Jet'S",
+            "image": "https://images.unsplash.com/photo-1588011025378-15f4778d2558?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+            "description": "Осень-Зима 2022 - 2023. Выполнена из качественной, плотной ветрозащитной и водоотталкивающей....",
+            "price": 7500,
+            "available": true,
+            "sex": "female"
+        },
+        {
+            "id": 2,
+            "name": "Куртка Jet'S",
+            "image": "https://images.unsplash.com/photo-1608063615781-e2ef8c73d114?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+            "description": "Осень-Зима 2022 - 2023. Выполнена из качественной, плотной ветрозащитной и водоотталкивающей....",
+            "price": 5500,
+            "available": true,
+            "sex": "mail"
+        },
+        {
+            "id": 3,
+            "name": "Куртка Jet'S",
+            "image": "https://images.unsplash.com/photo-1548365322-944246bec41e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+            "description": "Осень-Зима 2022 - 2023. Выполнена из качественной, плотной ветрозащитной и водоотталкивающей....",
+            "price": 6500,
+            "available": true,
+            "sex": "mail"
+        },
+        {
+            "id": 4,
+            "name": "Куртка Jet'S",
+            "image": "https://images.unsplash.com/photo-1578948856697-db91d246b7b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+            "description": "Осень-Зима 2022 - 2023. Выполнена из качественной, плотной ветрозащитной и водоотталкивающей....",
+            "price": 4500,
+            "available": true,
+            "sex": "mail"
+        },
+        {
+            "id": 5,
+            "name": "Куртка Jet'S",
+            "image": "https://images.unsplash.com/photo-1577287364980-8eadb74873d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+            "description": "Осень-Зима 2022 - 2023. Выполнена из качественной, плотной ветрозащитной и водоотталкивающей....",
+            "price": 8900,
+            "available": true,
+            "sex": "femail"
+        },
+        {
+            "id": 6,
+            "name": "Куртка Jet'S",
+            "image": "https://images.unsplash.com/photo-1584814763982-c1f182e71703?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+            "description": "Осень-Зима 2022 - 2023. Выполнена из качественной, плотной ветрозащитной и водоотталкивающей....",
+            "price": 5900,
+            "available": true,
+            "sex": "email"
+        }
+    ]
+}
